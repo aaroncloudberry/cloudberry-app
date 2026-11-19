@@ -1,6 +1,6 @@
 {
-  "name": "Cloudberry",
-  "short_name": "Cloudberry",
+  "name": "Cloudberry CRM",
+  "short_name": "Cloudberry CRM",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
